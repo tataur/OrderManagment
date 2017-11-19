@@ -1,0 +1,11 @@
+C:\Users\Sveta\Documents\GitHub\OrderManagment\OrderManagement\OM.Classes\bin\Debug\OM.Classes.dll.config
+C:\Users\Sveta\Documents\GitHub\OrderManagment\OrderManagement\OM.Classes\bin\Debug\OM.Classes.dll
+C:\Users\Sveta\Documents\GitHub\OrderManagment\OrderManagement\OM.Classes\bin\Debug\OM.Classes.pdb
+C:\Users\Sveta\Documents\GitHub\OrderManagment\OrderManagement\OM.Classes\bin\Debug\EntityFramework.dll
+C:\Users\Sveta\Documents\GitHub\OrderManagment\OrderManagement\OM.Classes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sveta\Documents\GitHub\OrderManagment\OrderManagement\OM.Classes\bin\Debug\EntityFramework.xml
+C:\Users\Sveta\Documents\GitHub\OrderManagment\OrderManagement\OM.Classes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sveta\Documents\GitHub\OrderManagment\OrderManagement\OM.Classes\obj\Debug\OM.Classes.csprojResolveAssemblyReference.cache
+C:\Users\Sveta\Documents\GitHub\OrderManagment\OrderManagement\OM.Classes\obj\Debug\OM.Classes.csproj.CoreCompileInputs.cache
+C:\Users\Sveta\Documents\GitHub\OrderManagment\OrderManagement\OM.Classes\obj\Debug\OM.Classes.dll
+C:\Users\Sveta\Documents\GitHub\OrderManagment\OrderManagement\OM.Classes\obj\Debug\OM.Classes.pdb
